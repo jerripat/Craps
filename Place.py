@@ -10,8 +10,9 @@ class PlaceBet():
         self.bet = bet
         return self.bet
     
-    def set_place(self, place):
-        self.place = place
+    def set_place(self, pl):
+        self.place = pl
+   
         return self.place
         
     
